@@ -19,7 +19,7 @@ function SimpleLinktree() {
           className="avatar"
         />
         <h1 className="linktree-title">Pramono Tirta Luhung</h1>
-        <p className="linktree-subtitle">Mahasiswa biasa</p>
+        <p className="linktree-subtitle">Mahasiswa luar biasa</p>
       </div>
 
       {/* Links Section */}
