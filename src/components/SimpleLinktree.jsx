@@ -7,6 +7,7 @@ function SimpleLinktree() {
     { id: 3, label: "GitHub", url: "https://github.com/pampam666" },
     { id: 4, label: "Agency", url: "https://www.instagram.com/brixdigital.official/" },
     { id: 5, label: "Portofolio", url: "https://linktreepampam.my.canva.site/portofolio-pramono"}
+    { id: 6, label: "Sosmed Project", url: "https://www.tiktok.com/@crypto.rizz"}
   ];
 
   return (
